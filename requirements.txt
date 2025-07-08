@@ -1,0 +1,18 @@
+# Hikoco Scraper Dependencies
+
+# Basic scraping
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+pandas>=1.4.0
+
+# Asynchronous scraping
+aiohttp>=3.8.0
+tqdm>=4.64.0
+
+# JavaScript rendering
+playwright>=1.30.0
+
+# Optional Scrapy dependencies
+scrapy>=2.6.0
+scrapy-playwright>=0.0.26
