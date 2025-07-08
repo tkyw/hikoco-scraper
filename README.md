@@ -16,12 +16,14 @@ This project provides tools to scrape product information from the Hikoco websit
 ## Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/tkyw/hikoco-scraper.git
 cd hikoco-scraper
 ```
 
 2. Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -29,14 +31,28 @@ pip install -r requirements.txt
 ## Usage
 
 1. Create a `product-links.json` file with product URLs (see `product-links.json.sample`)
-2. Run the scraper:
+2. first, change directory to the project folder
+
 ```bash
-python main.py
+cd hikoco
+```
+
+3. run the scraper and output to json Format
+
+```bash
+scrapy crawl hikoco -O {filename}.json
+```
+
+4. Alternative (csv)
+
+```bash
+scrapy crawl hikoco -O {filename}.csv
 ```
 
 ## Input Format
 
 Create a `product-links.json` file with this structure:
+
 ```json
 {
   "link": [
@@ -49,6 +65,7 @@ Create a `product-links.json` file with this structure:
 ## Output Format
 
 The scraper outputs a JSON file with product data:
+
 ```json
 [
   {
