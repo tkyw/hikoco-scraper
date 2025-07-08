@@ -31,7 +31,7 @@ This project provides tools to scrape product information from the Hikoco websit
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/hikoco-scraper.git
+git clone https://github.com/tkyw/hikoco-scraper.git
 cd hikoco-scraper
 ```
 
@@ -168,3 +168,12 @@ MIT License
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request.
+
+## Repository
+
+- **GitHub**: [https://github.com/tkyw/hikoco-scraper](https://github.com/tkyw/hikoco-scraper)
+- **Issues**: [https://github.com/tkyw/hikoco-scraper/issues](https://github.com/tkyw/hikoco-scraper/issues)
+
+## Contact
+
+For questions or support, please open an issue on the GitHub repository.
