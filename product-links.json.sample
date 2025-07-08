@@ -1,14 +1,14 @@
+[
 {
-  "link": [
-    "https://hikoco.co.nz/products/abib-acne-foam-cleanser-heartleaf-foam",
-    "https://hikoco.co.nz/products/abib-collagen-eye-patch-jericho-rose-jelly",
-    "https://hikoco.co.nz/products/abib-glutathiosome-dark-spot-pad-vita-touch",
-    "https://hikoco.co.nz/products/abib-gummy-sheet-mask-collagen-milk-sticker",
-    "https://hikoco.co.nz/products/abib-heartleaf-calming-toner-skin-booster",
-    "https://hikoco.co.nz/products/abib-heartleaf-creme-calming-tube",
-    "https://hikoco.co.nz/products/abib-heartleaf-essence-calming-pump",
-    "https://hikoco.co.nz/products/abib-heartleaf-facial-mist-calming-spray",
-    "https://hikoco.co.nz/products/abib-jericho-rose-bifida-serum-firming-drop",
-    "https://hikoco.co.nz/products/abib-quick-sunstick-protection-bar-spf50-broad-spectrum"
-  ]
-}
+    "link": "https://hikoco.co.nz/collections/benton/products/centella-cica-gel",
+    "name": "Centella Cica Gel",
+    "price": "$25.00",
+    "ingredients": "Centella Asiatica Extract, Aqua (Water), Glycerin, Pentylene Glycol, Arginine, Ammonium Acryloyldimethyltaurate/VP"
+  },
+  {
+    "link": "https://hikoco.co.nz/collections/benton/products/beer-yeast-shampoo",
+    "name": "Beer Yeast Shampoo",
+    "price": "$36.00",
+    "ingredients": "Aqua (Water), Saccharomyces Cerevisiae Extract, Disodium Laureth Sulfosuccinate, Cocamidopropyl Hydroxysultaine,Lauryl Glucoside, Cocamide MIA, Sodium Cocoyl Isethionate,Lactobacillus/Houttuynia Cordata/Perilla Frutescens/CamelliaSinensis) Leaf Ferment Filtrate,Butylene Glycol, Sodium Chloride,Dipropylene Glycol, Polyquaternium-10, 1,2-Hexanediol, Glycerin,Propolis Extract, Glycine Max (Soybean) Seed,Extract, Malt Extract,Phellodendron Amurense Bark Extract, Dipotassium Glycyrrhizate,Biotin, Camellia SinensisLeaf Extract, Houttuynia Cordata Extract,Perilla Frutescens Leaf Extract, Avena Sativa (Oat) Kernel Extract, Hydroxyacetophenone, Caffeine, Menthol, Caprylyl Glycol, Panthenol, Salicylic Acid, Coconut Acid, Citric Acid, Niacinamide, Sodium Isethionate, Ethylhexylglycerin, Sodium Gluconate, Arginine, Parfum (Fragrance)"
+  }
+]
